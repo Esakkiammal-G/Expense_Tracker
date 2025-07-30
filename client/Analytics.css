@@ -1,0 +1,37 @@
+.analytics-card {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .analytics-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .analytics-col {
+    margin-bottom: 20px;
+  }
+  
+  .analytics-subcard {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .analytics-title {
+    color: #343a40;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .analytics-text {
+    color: #495057;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
